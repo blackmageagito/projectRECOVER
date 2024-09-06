@@ -1,6 +1,6 @@
 @font-face {
     font-family: "shingo";
-    src: url("/g2mer/fonts/AOTFShinGoProRegular.otf") format("opentype");
+    src: url("/fonts/AOTFShinGoProRegular.otf") format("opentype");
 }
 
 @keyframes fadeIn {
